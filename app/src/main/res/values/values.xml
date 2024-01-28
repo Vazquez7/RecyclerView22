@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="genders">
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>male</item>
+        <item>female</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Madame. Marie-Christine Meyer</item>
+        <item>Mr. Filinto Costa</item>
+        <item>Mr. Karl-Dieter Görgen</item>
+        <item>Mr. Nikky Hardenberg</item>
+        <item>Ms. Ellie Lewis</item>
+        <item>Ms. Nevaeh Tucker</item>
+        <item>Mr. Bradley Wells</item>
+        <item>Mademoiselle. Marion Carpentier</item>
+        <item>Mr. Lars Tokle</item>
+        <item>Mr. Norman Liebig</item>
+        <item>Mr. Darryl Carr</item>
+        <item>Ms. Becky Craig</item>
+        <item>Miss. Shaima Schriever</item>
+        <item>Ms. Sara Muñoz</item>
+        <item>Mr. Max Cooper</item>
+        <item>Mrs. Judith Hart</item>
+        <item>Mr. Joona Walli</item>
+        <item>Mr. Arnim Klingenberg</item>
+        <item>Miss. Amelia Jones</item>
+        <item>Mr. Landon Henderson</item>
+        <item>Mr. Frederikke Petersen</item>
+        <item>Mr. Aiden Davies</item>
+        <item>Mrs. Maélie Blanchard</item>
+        <item>Mr. Pablo Guillaume</item>
+        <item>Mr. Erling Brattli</item>
+        <item>Mr. Carlos Hernandez</item>
+        <item>Ms. Antonia Gimenez</item>
+        <item>Miss. Elsie Campbell</item>
+        <item>Mr. Chrisander Zimmermann</item>
+        <item>Ms. Diana Carr</item>
+        <item>Mr. Mathias Nielsen</item>
+        <item>Mr. Milton Caldwell</item>
+        <item>Mr. Diego Boyer</item>
+        <item>Ms. Marion Duval</item>
+        <item>Ms. Ramona Barrett</item>
+        <item>Mr. Noah Jensen</item>
+        <item>Mr. Estéfano Gomes</item>
+        <item>Miss. Jennie Patterson</item>
+        <item>Mr. August Christiansen</item>
+        <item>Mr. Hudson Green</item>
+        <item>Mr. Aiden Oliver</item>
+        <item>Mr. Jean Guillaume</item>
+        <item>Mr. Rasmus Christensen</item>
+        <item>Mr. Miguel Woods</item>
+        <item>Miss. Emily Kowalski</item>
+        <item>Mr. Darren Weaver</item>
+        <item>Mr. Gary Nguyen</item>
+        <item>Miss. Imogen Roberts</item>
+        <item>Mr. Eduardo Carmona</item>
+        <item>Miss. Pinja Lassila</item>
+    </string-array>
+
+    <string-array name="streets">
+        <item>Rue Desaix 119</item>
+        <item>Rua São Sebastiao  1743</item>
+        <item>Birkenweg 2424</item>
+        <item>Fluunseweg 90</item>
+        <item>Te Atatu Road 4525</item>
+        <item>Mockingbird Hill 3482</item>
+        <item>Rookery Road 5849</item>
+        <item>Rue Denfert-Rochereau 7571</item>
+        <item>Kristian Auberts vei 3668</item>
+        <item>Schulweg 246</item>
+        <item>Mill Road 6379</item>
+        <item>Broadway 6991</item>
+        <item>Hertog Reinoudsingel 8367</item>
+        <item>Calle de Bravo Murillo 2509</item>
+        <item>Heretaunga Street 7314</item>
+        <item>Cherry St 7758</item>
+        <item>Bulevardi 524</item>
+        <item>Kastanienweg 1011</item>
+        <item>Pierre Ave 2527</item>
+        <item>Robinson Rd 8267</item>
+        <item>Skovparken 7240</item>
+        <item>Manchester Street 4648</item>
+        <item>Rue Louis-Garrand 6187</item>
+        <item>Rue Baraban 822</item>
+        <item>Urtegata 1000</item>
+        <item>Lakeview St 7463</item>
+        <item>Calle Mota 4188</item>
+        <item>W Pecan St 2065</item>
+        <item>Fjellhus allé 1869</item>
+        <item>Tara Street 7965</item>
+        <item>Myrdalstræde 349</item>
+        <item>Dogwood Ave 2012</item>
+        <item>Avenue de l\'Abbé-Roussel 8195</item>
+        <item>Rue de L\'Abbé-Roger-Derry 9138</item>
+        <item>E Sandy Lake Rd 9883</item>
+        <item>Åbrinken 2398</item>
+        <item>Rua Três 2343</item>
+        <item>Forest Ln 6279</item>
+        <item>Birkevang 4870</item>
+        <item>Napier Road 6582</item>
+        <item>Wycliff Ave 9965</item>
+        <item>Rue de L\'Abbé-De-L\'Épée 2769</item>
+        <item>Skolebakken 130</item>
+        <item>Valwood Pkwy 3796</item>
+        <item>Concession Road 6 489</item>
+        <item>Church Lane 9098</item>
+        <item>W Campbell Ave 4320</item>
+        <item>Great South Road 8111</item>
+        <item>Calle de Arturo Soria 9499</item>
+        <item>Itsenäisyydenkatu 1871</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>2044 Petit-Val (Thurgau) - Switzerland</item>
+        <item>49794 Valinhos (Rondônia) - Brazil</item>
+        <item>47813 Bad Honnef (Sachsen-Anhalt) - Germany</item>
+        <item>46979 Heusden gem Heusden (Limburg) - Netherlands</item>
+        <item>50039 Lower Hutt (Gisborne) - New Zealand</item>
+        <item>14735 Los Lunas (Kentucky) - United States</item>
+        <item>97531 Celbridge (Dún Laoghaire–Rathdown) - Ireland</item>
+        <item>1300 Roggliswil (Zürich) - Switzerland</item>
+        <item>0875 Leksvik (Hordaland) - Norway</item>
+        <item>71314 Bad Rodach (Baden-Württemberg) - Germany</item>
+        <item>90209 Newcastle West (Kilkenny) - Ireland</item>
+        <item>WC15 4LS Brighton and Hove (Kent) - United Kingdom</item>
+        <item>76315 Lisserbroek (Friesland) - Netherlands</item>
+        <item>62784 Mérida (Cantabria) - Spain</item>
+        <item>70781 Auckland (Tasman) - New Zealand</item>
+        <item>30593 Plano (Utah) - United States</item>
+        <item>88818 Enonkoski (Uusimaa) - Finland</item>
+        <item>26785 Falkensee (Sachsen-Anhalt) - Germany</item>
+        <item>A4H 7L0 Aylmer (Yukon) - Canada</item>
+        <item>98282 Modesto (Wyoming) - United States</item>
+        <item>61325 Gl. Rye (Sjælland) - Denmark</item>
+        <item>20888 Invercargill (Wellington) - New Zealand</item>
+        <item>21121 Le Mans (Guadeloupe) - France</item>
+        <item>22614 Nanterre (Côtes-D\'Armor) - France</item>
+        <item>1101 Spetalen (Sør-Trøndelag) - Norway</item>
+        <item>8048 Warragul (South Australia) - Australia</item>
+        <item>17778 Pamplona (Castilla la Mancha) - Spain</item>
+        <item>58693 Baltimore (Massachusetts) - United States</item>
+        <item>4035 Brekstad (Akershus) - Norway</item>
+        <item>21261 Bray (Cavan) - Ireland</item>
+        <item>86535 Hirtsals (Nordjylland) - Denmark</item>
+        <item>9819 Hobart (Australian Capital Territory) - Australia</item>
+        <item>50742 Marseille (Dordogne) - France</item>
+        <item>75299 Saint-Étienne (Vaucluse) - France</item>
+        <item>94273 Pomona (South Carolina) - United States</item>
+        <item>11852 Ulsted, Hals (Syddanmark) - Denmark</item>
+        <item>42092 Belém (Ceará) - Brazil</item>
+        <item>8234 Maitland (Western Australia) - Australia</item>
+        <item>87671 Aalborg S.Ø. (Syddanmark) - Denmark</item>
+        <item>86752 Upper Hutt (Otago) - New Zealand</item>
+        <item>69818 Altoona (Maine) - United States</item>
+        <item>73096 Caen (Vaucluse) - France</item>
+        <item>43527 Assens (Syddanmark) - Denmark</item>
+        <item>5420 Bunbury (Australian Capital Territory) - Australia</item>
+        <item>W3D 4O8 Glenwood (Alberta) - Canada</item>
+        <item>12913 Skerries (Longford) - Ireland</item>
+        <item>9554 Melbourne (Tasmania) - Australia</item>
+        <item>15802 Greymouth (Gisborne) - New Zealand</item>
+        <item>80199 La Palma (Ceuta) - Spain</item>
+        <item>39520 Pielavesi (Central Ostrobothnia) - Finland</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item>marie-christine.meyer@example.com</item>
+        <item>filinto.costa@example.com</item>
+        <item>karl-dieter.gorgen@example.com</item>
+        <item>nikky.hardenberg@example.com</item>
+        <item>ellie.lewis@example.com</item>
+        <item>nevaeh.tucker@example.com</item>
+        <item>bradley.wells@example.com</item>
+        <item>marion.carpentier@example.com</item>
+        <item>lars.tokle@example.com</item>
+        <item>norman.liebig@example.com</item>
+        <item>darryl.carr@example.com</item>
+        <item>becky.craig@example.com</item>
+        <item>shaima.schriever@example.com</item>
+        <item>sara.munoz@example.com</item>
+        <item>max.cooper@example.com</item>
+        <item>judith.hart@example.com</item>
+        <item>joona.walli@example.com</item>
+        <item>arnim.klingenberg@example.com</item>
+        <item>amelia.jones@example.com</item>
+        <item>landon.henderson@example.com</item>
+        <item>frederikke.petersen@example.com</item>
+        <item>aiden.davies@example.com</item>
+        <item>maelie.blanchard@example.com</item>
+        <item>pablo.guillaume@example.com</item>
+        <item>erling.brattli@example.com</item>
+        <item>carlos.hernandez@example.com</item>
+        <item>antonia.gimenez@example.com</item>
+        <item>elsie.campbell@example.com</item>
+        <item>chrisander.zimmermann@example.com</item>
+        <item>diana.carr@example.com</item>
+        <item>mathias.nielsen@example.com</item>
+        <item>milton.caldwell@example.com</item>
+        <item>diego.boyer@example.com</item>
+        <item>marion.duval@example.com</item>
+        <item>ramona.barrett@example.com</item>
+        <item>noah.jensen@example.com</item>
+        <item>estefano.gomes@example.com</item>
+        <item>jennie.patterson@example.com</item>
+        <item>august.christiansen@example.com</item>
+        <item>hudson.green@example.com</item>
+        <item>aiden.oliver@example.com</item>
+        <item>jean.guillaume@example.com</item>
+        <item>rasmus.christensen@example.com</item>
+        <item>miguel.woods@example.com</item>
+        <item>emily.kowalski@example.com</item>
+        <item>darren.weaver@example.com</item>
+        <item>gary.nguyen@example.com</item>
+        <item>imogen.roberts@example.com</item>
+        <item>eduardo.carmona@example.com</item>
+        <item>pinja.lassila@example.com</item>
+    </string-array>
+
+    <string-array name="phones">
+        <item>077 949 20 20</item>
+        <item>(53) 3369-7350</item>
+        <item>0177-2743350</item>
+        <item>(818)-739-5280</item>
+        <item>(384)-727-8193</item>
+        <item>(495)-691-4594</item>
+        <item>081-524-3239</item>
+        <item>076 264 66 91</item>
+        <item>93305029</item>
+        <item>0175-0158108</item>
+        <item>081-298-4076</item>
+        <item>0754-015-711</item>
+        <item>(786)-329-5336</item>
+        <item>607-951-965</item>
+        <item>(464)-628-0376</item>
+        <item>(172)-817-5138</item>
+        <item>047-675-10-96</item>
+        <item>0176-9554917</item>
+        <item>674-803-7375</item>
+        <item>(455)-775-0526</item>
+        <item>31376403</item>
+        <item>(293)-445-8821</item>
+        <item>06-68-65-95-98</item>
+        <item>06-93-89-68-80</item>
+        <item>41766508</item>
+        <item>0460-979-682</item>
+        <item>653-153-571</item>
+        <item>(336)-762-0584</item>
+        <item>45318445</item>
+        <item>081-397-8565</item>
+        <item>17842324</item>
+        <item>0424-310-282</item>
+        <item>06-45-17-06-72</item>
+        <item>06-16-76-93-63</item>
+        <item>(877)-094-3143</item>
+        <item>10805189</item>
+        <item>(39) 7927-4953</item>
+        <item>0479-136-760</item>
+        <item>54953310</item>
+        <item>(665)-636-4991</item>
+        <item>(326)-031-2685</item>
+        <item>06-89-86-98-93</item>
+        <item>15895931</item>
+        <item>0415-978-363</item>
+        <item>648-209-5638</item>
+        <item>081-520-2458</item>
+        <item>0402-071-880</item>
+        <item>(266)-853-1670</item>
+        <item>693-876-781</item>
+        <item>044-010-88-59</item>
+    </string-array>
+
+    <integer-array name="pictures">
+        <item>@drawable/user01</item>
+        <item>@drawable/user02</item>
+        <item>@drawable/user03</item>
+        <item>@drawable/user04</item>
+        <item>@drawable/user05</item>
+        <item>@drawable/user06</item>
+        <item>@drawable/user07</item>
+        <item>@drawable/user08</item>
+        <item>@drawable/user09</item>
+        <item>@drawable/user10</item>
+        <item>@drawable/user11</item>
+        <item>@drawable/user12</item>
+        <item>@drawable/user13</item>
+        <item>@drawable/user14</item>
+        <item>@drawable/user15</item>
+        <item>@drawable/user16</item>
+        <item>@drawable/user17</item>
+        <item>@drawable/user18</item>
+        <item>@drawable/user19</item>
+        <item>@drawable/user20</item>
+        <item>@drawable/user21</item>
+        <item>@drawable/user22</item>
+        <item>@drawable/user23</item>
+        <item>@drawable/user24</item>
+        <item>@drawable/user25</item>
+        <item>@drawable/user26</item>
+        <item>@drawable/user27</item>
+        <item>@drawable/user28</item>
+        <item>@drawable/user29</item>
+        <item>@drawable/user30</item>
+        <item>@drawable/user31</item>
+        <item>@drawable/user32</item>
+        <item>@drawable/user33</item>
+        <item>@drawable/user34</item>
+        <item>@drawable/user35</item>
+        <item>@drawable/user36</item>
+        <item>@drawable/user37</item>
+        <item>@drawable/user38</item>
+        <item>@drawable/user39</item>
+        <item>@drawable/user40</item>
+        <item>@drawable/user41</item>
+        <item>@drawable/user42</item>
+        <item>@drawable/user43</item>
+        <item>@drawable/user44</item>
+        <item>@drawable/user45</item>
+        <item>@drawable/user46</item>
+        <item>@drawable/user47</item>
+        <item>@drawable/user48</item>
+        <item>@drawable/user49</item>
+        <item>@drawable/user50</item>
+    </integer-array>
+
+</resources>
